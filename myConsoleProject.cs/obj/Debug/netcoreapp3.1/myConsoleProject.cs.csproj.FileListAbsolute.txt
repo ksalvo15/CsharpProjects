@@ -1,0 +1,13 @@
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.exe
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.deps.json
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.runtimeconfig.json
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.runtimeconfig.dev.json
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.dll
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.pdb
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.AssemblyInfoInputs.cache
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.AssemblyInfo.cs
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.dll
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.pdb
+C:\Users\kelse\Desktop\Basic_C#_Programs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.genruntimeconfig.cache
