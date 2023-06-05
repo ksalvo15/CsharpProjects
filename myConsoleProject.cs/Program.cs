@@ -9,26 +9,23 @@ namespace myConsoleProject.cs
             Console.WriteLine("The Tech Academy");
             Console.WriteLine("Student Daily Report");
             Console.WriteLine("What is your Name");
-            string name = "kelsey";
-            Console.WriteLine(name); //asking for a string variable called name
+            Console.ReadLine();
             Console.WriteLine("What course are you on");
-            string course = "C# and .NET";
-            Console.WriteLine(course);  //asking for a string variable called course
+            Console.ReadLine();
             Console.WriteLine("What page number");
-            int pagenumber = 163;
-            Console.WriteLine(pagenumber); //asking for a int variable called pagenumber
+            
+            string pagenumber = Console.ReadLine();
+            int pagenumbers = Convert.ToInt32(pagenumber); //this converts the string to int
             Console.WriteLine("Do you need help with anything? Please answer “true” or “false.”");
-            bool needhelp = false;
-            Console.WriteLine(needhelp); //asking for a boolean variable called needhelp
+            Convert.ToBoolean(Console.ReadLine());  //this converts the answer of false or true to an answer in ReadLine
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
-            string experiences = "still learning things!";
-            Console.WriteLine(experiences); //asking for a string variable called experiences
+            Console.ReadLine();
             Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
-            string feedback = "not at the moment";
-            Console.WriteLine(feedback); //asking for a string variable called feedback
+            Console.ReadLine();
             Console.WriteLine("How many hours did you study today?");
-            int hours = 2;
-            Console.WriteLine(hours); //asking for a int variable called hours
+            
+            string hours = Console.ReadLine();
+            int hour = Convert.ToInt32(hours);  //this converts the string to int
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
             Console.Read();
         }
