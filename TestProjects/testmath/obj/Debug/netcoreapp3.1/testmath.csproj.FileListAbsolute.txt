@@ -1,0 +1,12 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\bin\Debug\netcoreapp3.1\testmath.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\bin\Debug\netcoreapp3.1\testmath.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\bin\Debug\netcoreapp3.1\testmath.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\bin\Debug\netcoreapp3.1\testmath.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\bin\Debug\netcoreapp3.1\testmath.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\bin\Debug\netcoreapp3.1\testmath.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\obj\Debug\netcoreapp3.1\testmath.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\obj\Debug\netcoreapp3.1\testmath.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\obj\Debug\netcoreapp3.1\testmath.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\obj\Debug\netcoreapp3.1\testmath.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\obj\Debug\netcoreapp3.1\testmath.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\TestProjects\testmath\obj\Debug\netcoreapp3.1\testmath.genruntimeconfig.cache
