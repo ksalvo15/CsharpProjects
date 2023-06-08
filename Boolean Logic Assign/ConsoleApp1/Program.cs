@@ -15,7 +15,7 @@ namespace testmath
 
             Console.WriteLine("Have you ever had a DUI true or false?");
             bool DUI; //needs to have this variable for the if statement
-            bool noDUI = true; //this takes the if statment noDUI and makes it a bool statement
+            bool noDUI = false; //this takes the if statment noDUI and makes it a bool statement
             DUI = Convert.ToBoolean(Console.ReadLine()); //this converts the input to a bool
             if (DUI == false)
             {
