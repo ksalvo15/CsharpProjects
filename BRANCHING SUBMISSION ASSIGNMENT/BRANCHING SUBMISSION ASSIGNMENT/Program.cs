@@ -10,17 +10,17 @@ namespace testmath
 
             Console.WriteLine("What is the weight of your package?");
             string weight = Console.ReadLine();
-            int numweight = Convert.ToInt32(weight);
+            int numweight = Convert.ToInt32(weight); //converts the user input to a number
 
             if (numweight > 50)
                 { 
-                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day."); //if greater than 50 the program ends
                 Console.ReadLine();
                 }
 
             else
                 {
-                Console.WriteLine("What is the package height?");
+                Console.WriteLine("What is the package height?"); //if under 50 the program continues
                 string height = Console.ReadLine();
                 int packheight = Convert.ToInt32(height);
 
