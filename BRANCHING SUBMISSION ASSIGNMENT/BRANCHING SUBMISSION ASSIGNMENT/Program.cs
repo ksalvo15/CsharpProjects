@@ -13,13 +13,12 @@ namespace testmath
             int numweight = Convert.ToInt32(weight); //converts the user input to a number
 
             if (numweight > 50)
-                { 
-                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day."); //if greater than 50 the program ends
-                Console.ReadLine();
-                }
+            {
+                Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+            }
 
             else
-                {
+            {
                 Console.WriteLine("What is the package height?"); //if under 50 the program continues
                 string height = Console.ReadLine();
                 int packheight = Convert.ToInt32(height);
@@ -32,13 +31,23 @@ namespace testmath
                 string width = Console.ReadLine();
                 int packwidth = Convert.ToInt32(width);
 
-                int TotalPrice = ((packwidth * packheight * packlength * numweight) / 100);
-                string moneyprice = TotalPrice.ToString("C");
+                int packdimen = packheight + packlength + packwidth;
 
-                Console.WriteLine("Your estimated total for shipping this package is: " + moneyprice);
-                Console.ReadLine();
-                }                      
+                if (packdimen > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express"); //if greater than 50 the program ends
+                }
 
+                else
+                {
+                    int TotalPrice = ((packwidth * packheight * packlength * numweight) / 100);
+                    string moneyprice = TotalPrice.ToString("C");
+
+                    Console.WriteLine("Your estimated total for shipping this package is: " + moneyprice);
+                    Console.ReadLine();
+                }
+            }
+            Console.ReadLine();
         }
     }
 }
