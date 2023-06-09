@@ -37,10 +37,7 @@ namespace testmath
 
                 Console.WriteLine("Your estimated total for shipping this package is: " + moneyprice);
                 Console.ReadLine();
-                }
-            
-            
-
+                }                      
 
         }
     }
