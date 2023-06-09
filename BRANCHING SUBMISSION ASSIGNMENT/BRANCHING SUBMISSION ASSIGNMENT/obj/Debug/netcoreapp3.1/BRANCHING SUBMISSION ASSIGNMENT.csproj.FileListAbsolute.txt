@@ -1,0 +1,13 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BRANCHING SUBMISSION ASSIGNMENT\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\netcoreapp3.1\BRANCHING SUBMISSION ASSIGNMENT.genruntimeconfig.cache
