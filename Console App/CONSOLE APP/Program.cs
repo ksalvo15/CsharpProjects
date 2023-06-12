@@ -10,7 +10,7 @@ namespace CONSOLE_APP
             string color = Console.ReadLine();
             bool picked = false;
 
-            while (!picked)
+            do //making sure the while loop hits
             {
                 switch (color)
                 {
@@ -46,14 +46,16 @@ namespace CONSOLE_APP
                         color = Console.ReadLine();
                         break;
 
-                    default:
+                    default: //this will let any other entry pick this default
                         Console.WriteLine("you picked a color that I don't have a fun fact about");
                         Console.WriteLine("pick another color");
                         color = Console.ReadLine();
                         break;
                 }
             }
-                   
+
+            while (!picked); //this will trigger one the special color is picked
+
             Console.ReadLine();
         }
     }
