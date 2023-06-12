@@ -8,9 +8,9 @@ namespace CONSOLE_APP
         {
             Console.WriteLine("Pick a color");
             string color = Console.ReadLine();
-            bool picked = false;
+            bool picked = color == "green";
 
-            do //making sure the while loop hits
+            do //making sure the while loop hits (notworking riht now but trying to fix it)
             {
                 switch (color)
                 {
@@ -30,7 +30,7 @@ namespace CONSOLE_APP
                         Console.WriteLine("you picked " + color + ", fun fact about " + color + " green is the best color for photosynthesis for plants");
                         picked = true;
                         Console.WriteLine("thats also my favorite color!");
-                        Console.WriteLine("pick another color");
+                        //Console.WriteLine("pick another color");  //I want this to still keep on going but am not sure how to do that. i saw a keeponlooping statement
                         color = Console.ReadLine();
                         break;
 
@@ -54,7 +54,7 @@ namespace CONSOLE_APP
                 }
             }
 
-            while (!picked); //this will trigger one the special color is picked
+            while (!picked); //this will trigger once the special color is picked
 
             Console.ReadLine();
         }
