@@ -10,7 +10,7 @@ namespace CONSOLE_APP
             string color = Console.ReadLine();
             bool picked = false;
 
-            do
+            while (!picked)
             {
                 switch (color)
                 {
@@ -19,11 +19,13 @@ namespace CONSOLE_APP
                         Console.WriteLine("pick another color");
                         color = Console.ReadLine();
                         break;
+
                     case "blue":
                         Console.WriteLine("you picked " + color + ", fun fact about " + color + " The ocean is blue because water absorbs colors in the red part of the light spectrum");
                         Console.WriteLine("pick another color");
                         color = Console.ReadLine();
                         break;
+
                     case "green":
                         Console.WriteLine("you picked " + color + ", fun fact about " + color + " green is the best color for photosynthesis for plants");
                         picked = true;
@@ -31,16 +33,19 @@ namespace CONSOLE_APP
                         Console.WriteLine("pick another color");
                         color = Console.ReadLine();
                         break;
+
                     case "purple":
                         Console.WriteLine("you picked " + color + ", fun fact about " + color + " Carrots used to be purple, now most are orange!");
                         Console.WriteLine("pick another color");
                         color = Console.ReadLine();
                         break;
+
                     case "red":
                         Console.WriteLine("you picked " + color + ", fun fact about " + color + " Red is the first color babies can see after black and white");
                         Console.WriteLine("pick another color");
                         color = Console.ReadLine();
                         break;
+
                     default:
                         Console.WriteLine("you picked a color that I don't have a fun fact about");
                         Console.WriteLine("pick another color");
@@ -48,9 +53,7 @@ namespace CONSOLE_APP
                         break;
                 }
             }
-
-            while (!picked);
-
+                   
             Console.ReadLine();
         }
     }
