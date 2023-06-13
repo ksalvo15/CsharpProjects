@@ -10,6 +10,14 @@ namespace CONSOLE_APP
             string color = Console.ReadLine();
             bool picked = color == "green";
 
+            int i = 2;
+
+            while ((i+=2) < 10)
+            {
+                Console.WriteLine(i);
+                
+            }
+
             do //making sure the while loop hits (notworking riht now but trying to fix it)
             {
                 switch (color)
@@ -30,7 +38,6 @@ namespace CONSOLE_APP
                         Console.WriteLine("you picked " + color + ", fun fact about " + color + " green is the best color for photosynthesis for plants");
                         picked = true;
                         Console.WriteLine("thats also my favorite color!");
-                        //Console.WriteLine("pick another color");  //I want this to still keep on going but am not sure how to do that. i saw a keeponlooping statement
                         color = Console.ReadLine();
                         break;
 
