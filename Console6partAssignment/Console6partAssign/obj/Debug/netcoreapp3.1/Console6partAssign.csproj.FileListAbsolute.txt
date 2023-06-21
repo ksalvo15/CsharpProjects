@@ -1,0 +1,13 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\bin\Debug\netcoreapp3.1\Console6partAssign.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\bin\Debug\netcoreapp3.1\Console6partAssign.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\bin\Debug\netcoreapp3.1\Console6partAssign.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\bin\Debug\netcoreapp3.1\Console6partAssign.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\bin\Debug\netcoreapp3.1\Console6partAssign.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\bin\Debug\netcoreapp3.1\Console6partAssign.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\obj\Debug\netcoreapp3.1\Console6partAssign.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\obj\Debug\netcoreapp3.1\Console6partAssign.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\obj\Debug\netcoreapp3.1\Console6partAssign.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\obj\Debug\netcoreapp3.1\Console6partAssign.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\obj\Debug\netcoreapp3.1\Console6partAssign.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\obj\Debug\netcoreapp3.1\Console6partAssign.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Console6partAssignment\Console6partAssign\obj\Debug\netcoreapp3.1\Console6partAssign.genruntimeconfig.cache
