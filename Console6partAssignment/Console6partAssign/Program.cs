@@ -9,50 +9,42 @@ namespace Console6partAssign
         {
 
             List<string> stringList = new List<string>();
-            stringList.Add("Apple");
-            stringList.Add("Banana");
-            stringList.Add("Grape");
-            stringList.Add("Bread");
 
-             
+            int i;
+            i = 0;
+
+            int x = 2;
+
+            while ((x += 2) < 10)
+            {
+                Console.WriteLine(x);
+
+            }
+
+
             Console.WriteLine("please add an item to the index");
-            string inputList = Console.ReadLine(); //reads the user input and puts it to sting form
-            stringList.Add(inputList); //adds the user input to the list
+            string UserAdd = Console.ReadLine(); //reads the user input and puts it to sting form
+            stringList.Add(UserAdd); //adds the user input to the list
+            //i++;
 
-            Console.WriteLine("Entered string count = {0}", stringList.Count); //this writes the string list
-            foreach (string userAdd in stringList)
+            for (i = 0; i < stringList.Count; i++)
             {
-                Console.WriteLine(userAdd); //this adds the userinput to the list                    
-
+                stringList[i] += UserAdd;
             }
-            Console.WriteLine("If you would like to continue adding to the array write another word, if you would like to exit type no");
 
+            Console.WriteLine("Entered string count = {i}", stringList); //this writes the string list
+            //foreach (string userAdd in stringList)
+            //{
+               // Console.WriteLine(userAdd); //this adds the userinput to the list                    
 
-            bool keeplooping = true;
-            keeplooping = inputList != "no";
+            //}
 
-            while (keeplooping)
-            {
+            
                 
-                stringList.Add(inputList); //adds the user input to the list
-
-                Console.WriteLine("Entered string count = {0}", stringList.Count); //this writes the string list
-                foreach (string userAdd in stringList)
-                {
-                    Console.WriteLine(userAdd); //this adds the userinput to the list                    
-
-                }
-                Console.WriteLine("If you would like to continue adding to the array write another word, if you would like to exit type no");
-
-                Console.ReadLine();
 
 
-                if (inputList == "no")
-                {
-                    keeplooping = false;
-                }
-            }
 
         }
     }
 }
+
