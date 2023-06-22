@@ -30,7 +30,7 @@ namespace Console6partAssign
                 stringList[i] += UserAdd;
             }
 
-            Console.WriteLine("Entered string count = {i}", stringList.); //this writes the string list
+            Console.WriteLine("Entered string count = {i}", stringList); //this writes the string list
 
             //foreach (string userAdd in stringList)
             //{
