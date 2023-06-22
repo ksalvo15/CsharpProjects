@@ -7,12 +7,6 @@ namespace Console6partAssign
     {
         static void Main()
         {
-
-            List<string> stringList = new List<string>();
-
-            int i;
-            i = 0;
-
             int x = 2;
 
             while ((x += 2) < 10)
@@ -21,7 +15,11 @@ namespace Console6partAssign
 
             }
 
+            List<string> stringList = new List<string>();
 
+            int i;
+            i = 0;
+                        
             Console.WriteLine("please add an item to the index");
             string UserAdd = Console.ReadLine(); //reads the user input and puts it to sting form
             stringList.Add(UserAdd); //adds the user input to the list
@@ -32,7 +30,8 @@ namespace Console6partAssign
                 stringList[i] += UserAdd;
             }
 
-            Console.WriteLine("Entered string count = {i}", stringList); //this writes the string list
+            Console.WriteLine("Entered string count = {i}", stringList.); //this writes the string list
+
             //foreach (string userAdd in stringList)
             //{
                // Console.WriteLine(userAdd); //this adds the userinput to the list                    
