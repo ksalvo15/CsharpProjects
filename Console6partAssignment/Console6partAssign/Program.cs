@@ -58,38 +58,49 @@ namespace Console6partAssign
             newList.Add("Bread");
 
             Console.WriteLine("Pick an index from our List");
-            string guess = Console.ReadLine();                    
+            string guess = Console.ReadLine();
+            int a;
 
-            if (newList.Contains(guess))
+            for (a = 0; a < newList.Count; a++)
             {
-                int index = newList.FindIndex(a => a.Contains(guess));
-                Console.WriteLine("that item was found at index: " + index);
+                if (!newList.Contains(guess))
+                {
+                    Console.WriteLine("that item was not in the index");                    
+                }
+
+                else if (newList.Contains(guess))
+                {
+                    Console.WriteLine("that item was found at index: " + a);
+                    break;
+                }
             }
-            else
-            {
-                Console.WriteLine("that item is not in the array");
-            }                      
-
 
 
             List<string> sameString = new List<string>();
-            newList.Add("Apple");
-            newList.Add("Banana");
-            newList.Add("Grape");
-            newList.Add("Apple");
+            sameString.Add("Apple");
+            sameString.Add("Banana");
+            sameString.Add("Grape");
+            sameString.Add("Apple");
 
             Console.WriteLine("Pick an index from our List");
             string sameguess = Console.ReadLine();
-            for (i = 0; i < stringList.Count; i++)
+            int b;
+            for (b = 0; b < sameString.Count; b++)
+            {
+                if (!sameString.Contains(sameguess))
+                {
+                    Console.WriteLine("that item was not in the index");
+                }
 
-            if (newList.Count> 0)
-                foreach (int index in sameString) ;
-                    Console.WriteLine("that item was found at index: " + index);
-            
-            else
-                Console.WriteLine("that item is not in the array");
-            
+                else if (sameguess == sameString[b])
+                {
+                    Console.WriteLine("that item was found at index: " + b);
+                }
+            }
+
+
             Console.ReadLine();
+
         }
 
 
