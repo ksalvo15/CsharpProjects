@@ -57,23 +57,36 @@ namespace Console6partAssign
             newList.Add("Grape");
             newList.Add("Bread");
 
-            Console.WriteLine("Pick an index from our List");
-            string guess = Console.ReadLine();
+            bool guessed = true;
             int a;
 
-            for (a = 0; a < newList.Count; a++)
+            do
             {
-                if (!newList.Contains(guess))
+                
+                while (true)
+                   
                 {
-                    Console.WriteLine("that item was not in the index");                    
-                }
+                    Console.WriteLine("Pick an index from our List");
+                    string guess = Console.ReadLine();
+                    for (a = 0; a < newList.Count; a++)
+                    {
+                        if (!newList.Contains(guess))
+                        {
+                            Console.WriteLine("that item was not in the index please guess again");
+                        }
 
-                else if (newList.Contains(guess))
-                {
-                    Console.WriteLine("that item was found at index: " + a);
-                    break;
+                        else if (newList.Contains(guess))
+                        {
+                            Console.WriteLine("that item was found at index: " + a);
+                                guessed = false;
+                            break;
+                        }
+                    }
                 }
-            }
+                
+            } while (guessed);
+
+
 
 
             List<string> sameString = new List<string>();
@@ -82,7 +95,7 @@ namespace Console6partAssign
             sameString.Add("Grape");
             sameString.Add("Apple");
 
-            Console.WriteLine("Pick an index from our List");
+            Console.WriteLine("Pick an index from our Index");
             string sameguess = Console.ReadLine();
             int b;
             for (b = 0; b < sameString.Count; b++)
