@@ -75,7 +75,7 @@ namespace Console6partAssign
                             Console.WriteLine("that item was not in the index please guess again");
                         }
 
-                        else if (newList.Contains(guess))
+                        else if (guess == newList[a])
                         {
                             Console.WriteLine("that item was found at index: " + a);
                                 guessed = false;
