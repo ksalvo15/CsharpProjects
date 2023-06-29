@@ -5,7 +5,7 @@ namespace Console6partAssign
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             int x = 2;
 
@@ -57,34 +57,24 @@ namespace Console6partAssign
             newList.Add("Grape");
             newList.Add("Bread");
 
-            bool guessed = true;
             int a;
 
-            do
+            Console.WriteLine("Pick an index from our List");
+            string guess = Console.ReadLine();
+            for (a = 0; a < newList.Count; a++)
             {
-                
-                while (true)
-                   
+                if (!newList.Contains(guess))
                 {
-                    Console.WriteLine("Pick an index from our List");
-                    string guess = Console.ReadLine();
-                    for (a = 0; a < newList.Count; a++)
-                    {
-                        if (!newList.Contains(guess))
-                        {
-                            Console.WriteLine("that item was not in the index please guess again");
-                        }
-
-                        else if (guess == newList[a])
-                        {
-                            Console.WriteLine("that item was found at index: " + a);
-                                guessed = false;
-                            break;
-                        }
-                    }
+                    Console.WriteLine("that item was not in the index please guess again");
                 }
-                
-            } while (guessed);
+
+                else if (guess == newList[a])
+                {
+                    Console.WriteLine("that item was found at index: " + a);
+                    break;
+                }
+            }
+
 
 
 
@@ -114,26 +104,32 @@ namespace Console6partAssign
 
             Console.ReadLine();
 
-        }
-
+            List<string> forString = new List<string>();
+            forString.Add("mouse");
+            forString.Add("cat");
+            forString.Add("dog");
+            forString.Add("mouse");
 
             
+            for (int c = 0; c < forString.Count - 1; c++)
+            foreach (string dup in forString)
 
+            {                
+            if (forString[c] == dup)
+                        
+                {
+                    Console.WriteLine("That is a duplicate {0} ", forString[c]);                        
+                }
+                else
+                {
+                    Console.WriteLine("That is unique {0} ", forString[c]);                       
+                }
+            }
+                    
 
-
-
-        //foreach (string userAdd in stringList)
-        //{
-        // Console.WriteLine(userAdd); //this adds the userinput to the list                    
-
-        //}
-
-
-
-
-
-
-
+                
+        }
     }
 }
+
 
