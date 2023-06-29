@@ -110,8 +110,8 @@ namespace Console6partAssign
             forString.Add("dog");
             forString.Add("mouse");
 
-            
-            for (int c = 0; c < forString.Count - 1; c++)
+            int c;
+            for (c = 0; c < forString.Count - 1; c++)
             foreach (string dup in forString)
 
             {                
