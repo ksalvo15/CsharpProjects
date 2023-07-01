@@ -37,19 +37,19 @@ namespace Console6partAssign
             Console.WriteLine("Choose a number between 1 and 5");
             int num = Convert.ToInt32(Console.ReadLine());
 
-            if (num >= 4) //if the number they chose is greater or equal to 4
+            if (num > 4) //if the number they chose is greater or equal to 4
             {
-                Console.WriteLine("you wrote {0}, a number bigger or equal to 4", num);
+                Console.WriteLine("you wrote {0}, a number bigger than 4", num);
             }
 
-            else if (num == 3) //number is = to 3
+            else if (num == 4) //number is = to 3
             {
                 Console.WriteLine("you typed {0}", num);
             }
 
-            else if (num < 3) //if anything else
+            else if (num <= 3) //if anything else
             {
-                Console.WriteLine("you typed {0}, a number smaller than 3", num);
+                Console.WriteLine("you typed {0}, a number equal to or smaller than 3", num);
             }
 
 
@@ -65,17 +65,16 @@ namespace Console6partAssign
             Console.WriteLine("type a fruit from our List");
             string guess = Console.ReadLine();
             for (a = 0; a < newList.Count; a++)
-            {
-                if (!newList.Contains(guess)) //if the guess was not in the array of stings already it will ask you to guess again
-                {
-                    Console.WriteLine("that item was not in the index please guess again");
-                }
-
-                else if (guess == newList[a]) //if the guess is contained in the list it will then produce it
+            {                
+                if (guess == newList[a]) //if the guess is contained in the list it will then produce it
                 {
                     Console.WriteLine("that item was found at index: " + a);
                     break;
                 }
+            }
+            if (!newList.Contains(guess)) //if the guess was not in the array of stings already it will ask you to guess again
+            {
+                Console.WriteLine("Your guess as not in the array");
             }
 
 
@@ -91,15 +90,15 @@ namespace Console6partAssign
             int b;
             for (b = 0; b < sameString.Count; b++)
             {
-                if (!sameString.Contains(sameguess))
-                {
-                    Console.WriteLine("that item was not in the index");
-                }
-
-                else if (sameguess == sameString[b])
+                
+                if (sameguess == sameString[b])
                 {
                     Console.WriteLine("that item was found at index: " + b);
                 }
+            }
+            if (!sameString.Contains(sameguess))
+            {
+                Console.WriteLine("that item was not in the index");
             }
             Console.ReadLine();
 

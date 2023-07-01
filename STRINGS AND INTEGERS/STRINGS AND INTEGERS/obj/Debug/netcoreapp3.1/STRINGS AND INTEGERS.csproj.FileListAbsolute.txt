@@ -1,0 +1,13 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\bin\Debug\netcoreapp3.1\STRINGS AND INTEGERS.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\bin\Debug\netcoreapp3.1\STRINGS AND INTEGERS.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\bin\Debug\netcoreapp3.1\STRINGS AND INTEGERS.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\bin\Debug\netcoreapp3.1\STRINGS AND INTEGERS.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\bin\Debug\netcoreapp3.1\STRINGS AND INTEGERS.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\bin\Debug\netcoreapp3.1\STRINGS AND INTEGERS.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\obj\Debug\netcoreapp3.1\STRINGS AND INTEGERS.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\obj\Debug\netcoreapp3.1\STRINGS AND INTEGERS.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\obj\Debug\netcoreapp3.1\STRINGS AND INTEGERS.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\obj\Debug\netcoreapp3.1\STRINGS AND INTEGERS.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\obj\Debug\netcoreapp3.1\STRINGS AND INTEGERS.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\obj\Debug\netcoreapp3.1\STRINGS AND INTEGERS.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\STRINGS AND INTEGERS\STRINGS AND INTEGERS\obj\Debug\netcoreapp3.1\STRINGS AND INTEGERS.genruntimeconfig.cache
