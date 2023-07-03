@@ -32,7 +32,7 @@ namespace STRINGS_AND_INTEGERS
 
             catch (DivideByZeroException)
             {
-                Console.WriteLine("you divided by 0");
+                Console.WriteLine("you cannot divided by 0");
             }
 
             catch (FormatException)
