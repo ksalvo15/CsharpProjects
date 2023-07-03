@@ -17,31 +17,31 @@ namespace STRINGS_AND_INTEGERS
             intList.Add(15);
             intList.Add(57);
 
-            int i;
-            i = 0;
+            Console.WriteLine("please write a non 0 number that we will use to divide the array of numbers that we have");       
 
-            Console.WriteLine("please write a non 0 number that we will use to divide the array of numbers that we have");
-
-            int dividenum = int.Parse(Console.ReadLine());
-
-            foreach (int divided in intList)
+            try
             {
+                int dividenum = int.Parse(Console.ReadLine());
 
+                foreach (int divisor in intList)
+                {
+                    int divided = divisor / dividenum;
+                    Console.WriteLine(divided);
+                }
             }
 
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("you divided by 0");
+            }
 
+            catch (FormatException)
+            {
+                Console.WriteLine("you tried to divide by a string");
+            }
 
-
-            //Run the code, entering in non - zero numbers as the user.Look at the displayed results.
-
-
-                //Run the code again, entering in zero as the number to divide by.Note any error messages you get.
-
-
-                //Run the code once again, entering in a string as the number to divide by.Note any error messages you get.
-
-
-                //Now put the loop in a try/catch block.Below and outside of the try/catch block, make the program print a message to the display to let you know the program has emerged from the try/catch block and continued on with program execution.In the catch block, display the error message to the screen.Then try various combinations of user input: valid numbers, zero and a string.Ensure the proper error messages display on the screen, and that the code after the try/catch block gets executed.
+            Console.WriteLine("The program is done");
+           
         }
     }
 }
