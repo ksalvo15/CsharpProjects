@@ -16,9 +16,8 @@ namespace MAIN_METHOD
 
             //Part 2
             Console.WriteLine("What decimal do you want to use to do math operations?");
-            decimal decnum = Convert.ToDecimal(Console.ReadLine());
-            int intresult2 = submethod.Math(decnum);
-            decimal result2 = Convert.ToDecimal(intresult2); //should i be using float?
+            decimal decnum = Convert.ToDecimal(Console.ReadLine());            
+            decimal result2 = submethod.Math(decnum);
 
             Console.WriteLine(decnum + " + 1 = " + result2);
 
@@ -27,7 +26,7 @@ namespace MAIN_METHOD
             try
             {
                 
-                int stringnumber = Convert.ToInt32(Console.ReadLine());
+                string stringnumber = Console.ReadLine();
 
                 int result3 = submethod.Math(stringnumber);
 

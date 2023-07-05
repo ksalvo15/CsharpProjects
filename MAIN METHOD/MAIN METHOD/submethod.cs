@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MAIN_METHOD
 {
-    class submethod
+    public class submethod
     {
         public static int Math(int intnum)
         {
@@ -22,7 +22,7 @@ namespace MAIN_METHOD
         
         public static int Math(string stringnumber)
         {            
-            int result3 = Convert.ToInt32(stringnumber + 1);
+            int result3 = Convert.ToInt32(stringnumber) + 1;
             return result3;
 
         }
