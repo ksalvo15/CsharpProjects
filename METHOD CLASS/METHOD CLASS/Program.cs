@@ -20,7 +20,7 @@ namespace METHOD_CLASS
             math.Math(input1, input2);
 
             //part 4
-            math.Math(var1: input1, var2: input2); //this calls the method in the class with the parameters by name as var1= 5 and var 2 = 7
+            math.Math(var1: input1, var2: input2); //this calls the method in the class with the parameters 
             
             
         }
