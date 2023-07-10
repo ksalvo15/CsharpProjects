@@ -7,7 +7,7 @@ namespace Class_Submission
         public static void Main(string[] args)
         {
             VoidMethod math = new VoidMethod();
-
+            math.Math(6);
             //part3
             Console.WriteLine("please add an integer");
             int result;
@@ -20,8 +20,7 @@ namespace Class_Submission
             string var2 = Console.ReadLine();
             math.Math(var2);
 
-            //Part6
-            VoidMethod.StaticM();
+           
 
         }
     }

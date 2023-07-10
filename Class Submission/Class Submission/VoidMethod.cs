@@ -5,14 +5,20 @@ using System.Text;
 namespace Class_Submission
 {
     public class VoidMethod
-    {       
-        public void Math(int var1, out int result) //part 2 output parameters
+    {
+        public void Math(int var1) //part 1 
         {
             //Part1
-            result = var1 / 2;
+            
+            int result = var1 / 2;
             Console.WriteLine(var1 + " / 2 = " + result);
-                
-            Console.ReadLine();
+        }
+
+        public void Math(int var2, out int result) //part 2 output parameters
+        {
+            //Part1
+            result = var2 / 2;
+            Console.WriteLine(var2 + " / 2 = " + result);
         }
 
         //part 5 overloading the method
@@ -25,11 +31,16 @@ namespace Class_Submission
             Console.ReadLine();
         }
 
-        public static void StaticM()
+        public static class Staticclass
         {
-            //Part6
-            Console.WriteLine("static method?");
+            public static void StaticMath()
+            {
+                Console.WriteLine("this is a static class");
+            }
 
         }
+
     }
+
+    
 }
