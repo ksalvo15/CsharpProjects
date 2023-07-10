@@ -4,9 +4,16 @@ namespace Methods_and_Objects
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee Fullname = new Employee
+            {
+                FirstName = "sample",
+                LastName = "student"
+            };
+
+
+            Fullname.SayName();
         }
     }
 }

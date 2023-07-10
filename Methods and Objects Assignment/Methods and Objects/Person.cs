@@ -4,13 +4,21 @@ using System.Text;
 
 namespace Methods_and_Objects
 {
-    class Person
+    public class Person
     {
-        public void SayName(string FirstName, string LastName)
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+
+        public void SayName()
         {
-            string Name = (FirstName + LastName);
-
-
+            string Fullname = (FirstName +" "+ LastName);
+            Console.WriteLine("Name:[" + Fullname + "]");
         }
+    }
+
+    public class Employee : Person
+    {
+        public int ID { get; set; }        
+        
     }
 }

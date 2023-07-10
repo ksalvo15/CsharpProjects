@@ -1,0 +1,13 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\bin\Debug\netcoreapp3.1\Methods and Objects.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Methods and Objects Assignment\Methods and Objects\obj\Debug\netcoreapp3.1\Methods and Objects.genruntimeconfig.cache
