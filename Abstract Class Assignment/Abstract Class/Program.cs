@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Methods_and_Objects
+namespace Abstract_Class
 {
     class Program
     {

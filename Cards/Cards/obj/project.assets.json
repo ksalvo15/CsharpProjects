@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelse\\Documents\\Tech-Academy-Files\\GitHub\\CsharpProjects\\Cards\\Cards\\Cards.csproj",
-      "projectName": "Cards",
-      "projectPath": "C:\\Users\\kelse\\Documents\\Tech-Academy-Files\\GitHub\\CsharpProjects\\Cards\\Cards\\Cards.csproj",
+      "projectUniqueName": "C:\\Users\\kelse\\Documents\\Tech-Academy-Files\\GitHub\\CsharpProjects\\Cards\\Cards\\TwentyOne.csproj",
+      "projectName": "TwentyOne",
+      "projectPath": "C:\\Users\\kelse\\Documents\\Tech-Academy-Files\\GitHub\\CsharpProjects\\Cards\\Cards\\TwentyOne.csproj",
       "packagesPath": "C:\\Users\\kelse\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kelse\\Documents\\Tech-Academy-Files\\GitHub\\CsharpProjects\\Cards\\Cards\\obj\\",
       "projectStyle": "PackageReference",

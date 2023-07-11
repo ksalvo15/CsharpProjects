@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Abstract_Class
+namespace Methods_and_Objects
 {
-    public abstract class Person
+    public class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -13,6 +13,10 @@ namespace Abstract_Class
         {
             string Fullname = (FirstName + " " + LastName);
             Console.WriteLine("Name:[" + Fullname + "]");
+        }
+        public void Quit()
+        {
+            Console.WriteLine("They have quit");
         }
     }
 
