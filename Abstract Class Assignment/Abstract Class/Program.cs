@@ -1,12 +1,19 @@
 ﻿using System;
 
-namespace Abstract_Class
+namespace Methods_and_Objects
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee employee = new Employee();
+            
+            employee.FirstName = "sample";
+            employee.LastName = "student";
+            
+
+
+            employee.SayName();
         }
     }
 }

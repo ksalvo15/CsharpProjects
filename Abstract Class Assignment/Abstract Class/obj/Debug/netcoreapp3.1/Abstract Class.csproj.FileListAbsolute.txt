@@ -1,0 +1,12 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\bin\Debug\netcoreapp3.1\Abstract Class.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Abstract Class Assignment\Abstract Class\obj\Debug\netcoreapp3.1\Abstract Class.genruntimeconfig.cache
