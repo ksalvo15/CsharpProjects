@@ -12,7 +12,7 @@ namespace Polymorphisim
 
             employee.SayName();
             
-            IQuittable quittable = new Employee();
+            IQuittable quittable = employee;
             quittable.Quit();                        
         }
 

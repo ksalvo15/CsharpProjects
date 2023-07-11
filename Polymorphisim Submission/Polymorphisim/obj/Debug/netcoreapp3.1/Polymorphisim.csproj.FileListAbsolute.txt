@@ -1,0 +1,13 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\bin\Debug\netcoreapp3.1\Polymorphisim.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\bin\Debug\netcoreapp3.1\Polymorphisim.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\bin\Debug\netcoreapp3.1\Polymorphisim.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\bin\Debug\netcoreapp3.1\Polymorphisim.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\bin\Debug\netcoreapp3.1\Polymorphisim.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\bin\Debug\netcoreapp3.1\Polymorphisim.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\obj\Debug\netcoreapp3.1\Polymorphisim.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\obj\Debug\netcoreapp3.1\Polymorphisim.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\obj\Debug\netcoreapp3.1\Polymorphisim.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\obj\Debug\netcoreapp3.1\Polymorphisim.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\obj\Debug\netcoreapp3.1\Polymorphisim.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\obj\Debug\netcoreapp3.1\Polymorphisim.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Polymorphisim Submission\Polymorphisim\obj\Debug\netcoreapp3.1\Polymorphisim.genruntimeconfig.cache

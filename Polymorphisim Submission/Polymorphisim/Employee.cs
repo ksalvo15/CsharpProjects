@@ -2,14 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Methods_and_Objects
+namespace Polymorphisim
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public int ID { get; set; }
+        public void Quit()
+        {
+            Console.WriteLine("They have quit");
+        }
     }
-    public void Quit()
-    {
-        Console.WriteLine("They have quit");
-    }
+
+    
 }

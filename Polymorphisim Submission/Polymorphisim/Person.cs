@@ -2,23 +2,18 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Methods_and_Objects
+namespace Polymorphisim
 {
-    public class Person
+    public abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-
+                
         public void SayName()
         {
             string Fullname = (FirstName + " " + LastName);
             Console.WriteLine("Name:[" + Fullname + "]");
         }
-        public void Quit()
-        {
-            Console.WriteLine("They have quit");
-        }
+        
     }
-
-
 }

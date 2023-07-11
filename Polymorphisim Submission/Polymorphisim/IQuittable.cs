@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Polymorphisim
 {
-    class IQuit
+    interface IQuittable
     {
+        void Quit();
     }
 }
