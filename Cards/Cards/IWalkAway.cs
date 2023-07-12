@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Cards
+namespace TwentyOne
 {
-    class IWalkAway
+        interface IWalkAway
     {
+        void WalkAway(Player player);
+        
+    }
+
     }
 }

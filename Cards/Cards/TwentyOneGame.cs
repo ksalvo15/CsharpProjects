@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace 21
+namespace TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
