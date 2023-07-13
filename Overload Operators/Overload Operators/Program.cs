@@ -15,16 +15,15 @@ namespace Overload_Operators
             emp2.Id = 2;
             same = emp1.Id == emp2.Id;
 
-            Console.WriteLine(emp1 == emp2);
 
-            //if (same != true)
-            //{
-            //    Console.WriteLine("All employees have different ID numbers");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("there are some employees with the same ID number ");
-            //}
+            if (emp1 != emp2)
+            {
+                Console.WriteLine("All employees have different ID numbers");
+            }
+            else
+            {
+                Console.WriteLine("there are some employees with the same ID number ");
+            }
         }
     }
 }
