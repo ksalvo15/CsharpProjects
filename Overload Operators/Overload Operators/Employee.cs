@@ -14,21 +14,21 @@ namespace Overload_Operators
         public static bool operator ==(Employee emp1, Employee emp2)
         {
             bool same;
-            same = emp1 == emp2;
+            same = emp1.Id == emp2.Id;
             return same;
         }
 
         public static bool operator !=(Employee emp1, Employee emp2)
         {
             bool same;
-            same = emp1 != emp2;
+            same = emp1.Id != emp2.Id;
             return same;
         }
 
-        //public void SayName()
-        //{
-           // string Fullname = (FirstName + " " + LastName);
-           // Console.WriteLine("Name:[" + Fullname + "]");
-        //}
+        public void SayName()
+        {
+           string Fullname = (FirstName + " " + LastName);
+           Console.WriteLine("Name:[" + Fullname + "]");
+        }
     }
 }
