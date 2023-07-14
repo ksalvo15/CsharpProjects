@@ -24,7 +24,7 @@ namespace Parsing_Enums_Submission
                 Console.WriteLine("Please enter a day of the week");
                 string userday = Console.ReadLine();
                 DayofWeek day;
-                //for (int i = 0; i < 8; i++)
+                //for (int i = 0; i < 7; i++)
                 //{
                     if (Enum.TryParse(userday, true, out day))
                     {
