@@ -24,15 +24,18 @@ namespace Parsing_Enums_Submission
                 Console.WriteLine("Please enter a day of the week");
                 string userday = Console.ReadLine();
                 DayofWeek day;
+                //for (int i = 0; i < 8; i++)
+                //{
+                    if (Enum.TryParse(userday, true, out day))
+                    {
 
-                if (Enum.TryParse(userday, true, out day))
-                {
-                    Console.WriteLine("you wrote one of the days of the week {0}", day);
-                }
-                else
-                {
-                    Console.WriteLine("Please enter an actual day of the week");
-                }
+                        Console.WriteLine("you wrote one of the days of the week {0}", day);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Please enter an actual day of the week");
+                    }
+                //}                
             }
             catch (FormatException)
             {
