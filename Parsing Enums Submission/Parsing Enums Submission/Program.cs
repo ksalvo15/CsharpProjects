@@ -27,7 +27,7 @@ namespace Parsing_Enums_Submission
 
                 if (Enum.TryParse(userday, true, out day))
                 {
-                    Console.WriteLine("you wrote one of the days of the week");
+                    Console.WriteLine("you wrote one of the days of the week {0}", day);
                 }
                 else
                 {
