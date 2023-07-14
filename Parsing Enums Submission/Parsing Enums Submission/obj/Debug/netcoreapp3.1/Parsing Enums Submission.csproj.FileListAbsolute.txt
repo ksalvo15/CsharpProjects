@@ -1,0 +1,13 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\obj\Debug\netcoreapp3.1\Parsing Enums Submission.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\obj\Debug\netcoreapp3.1\Parsing Enums Submission.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\obj\Debug\netcoreapp3.1\Parsing Enums Submission.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\obj\Debug\netcoreapp3.1\Parsing Enums Submission.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\bin\Debug\netcoreapp3.1\Parsing Enums Submission.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\bin\Debug\netcoreapp3.1\Parsing Enums Submission.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\bin\Debug\netcoreapp3.1\Parsing Enums Submission.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\bin\Debug\netcoreapp3.1\Parsing Enums Submission.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\bin\Debug\netcoreapp3.1\Parsing Enums Submission.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\bin\Debug\netcoreapp3.1\Parsing Enums Submission.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\obj\Debug\netcoreapp3.1\Parsing Enums Submission.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\obj\Debug\netcoreapp3.1\Parsing Enums Submission.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Parsing Enums Submission\Parsing Enums Submission\obj\Debug\netcoreapp3.1\Parsing Enums Submission.genruntimeconfig.cache

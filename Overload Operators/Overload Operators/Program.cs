@@ -6,11 +6,11 @@ namespace Overload_Operators
     {
         public static void Main(string[] args)
         {
-            
-            Employee emp1 = new Employee() { FirstName = "Ted", LastName = "Smith"};
-            Employee emp2 = new Employee() { FirstName = "Sed", LastName = "Tmith" };           
+
+            Employee emp1 = new Employee() { FirstName = "Ted", LastName = "Smith" };
+            Employee emp2 = new Employee() { FirstName = "Sed", LastName = "Tmith" };
             bool same;
-            
+
             emp1.Id = 1;
             emp2.Id = 2;
             same = emp1.Id == emp2.Id;

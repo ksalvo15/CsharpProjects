@@ -10,7 +10,7 @@ namespace Overload_Operators
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int Id { get; set; }
-        
+
         public static bool operator ==(Employee emp1, Employee emp2)
         {
             bool same;
@@ -27,8 +27,8 @@ namespace Overload_Operators
 
         public void SayName()
         {
-           string Fullname = (FirstName + " " + LastName);
-           Console.WriteLine("Name:[" + Fullname + "]");
+            string Fullname = (FirstName + " " + LastName);
+            Console.WriteLine("Name:[" + Fullname + "]");
         }
     }
 }
