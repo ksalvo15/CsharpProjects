@@ -27,7 +27,7 @@ namespace Parsing_Enums_Submission
             }
             catch (ArgumentException)
             {
-                Console.WriteLine("Please enter a string");
+                Console.WriteLine("Please enter a string or a day of the week");
             }
         }        
     }
