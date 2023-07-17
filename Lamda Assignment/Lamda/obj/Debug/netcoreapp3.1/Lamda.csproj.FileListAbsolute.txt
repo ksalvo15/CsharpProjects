@@ -1,0 +1,13 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\bin\Debug\netcoreapp3.1\Lamda.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\bin\Debug\netcoreapp3.1\Lamda.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\bin\Debug\netcoreapp3.1\Lamda.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\bin\Debug\netcoreapp3.1\Lamda.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\bin\Debug\netcoreapp3.1\Lamda.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\bin\Debug\netcoreapp3.1\Lamda.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\obj\Debug\netcoreapp3.1\Lamda.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\obj\Debug\netcoreapp3.1\Lamda.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\obj\Debug\netcoreapp3.1\Lamda.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\obj\Debug\netcoreapp3.1\Lamda.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\obj\Debug\netcoreapp3.1\Lamda.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\obj\Debug\netcoreapp3.1\Lamda.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Lamda Assignment\Lamda\obj\Debug\netcoreapp3.1\Lamda.genruntimeconfig.cache
