@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace BlackJack
 {
@@ -12,10 +16,9 @@ namespace BlackJack
             Console.WriteLine("How much money did you bring rto spend?");
             int playermoney = Convert.ToInt32(Console.ReadLine());
 
-
             Console.WriteLine("Hello {0} would you liek to join a game of Blackjack?", playername);
             string answer = Console.ReadLine().ToLower();
-            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya" || )
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playername, playermoney);
                 Game game = new BlackjackGame();

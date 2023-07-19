@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace BlackJack
 {
@@ -13,7 +15,8 @@ namespace BlackJack
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+            string card = string.Format(Deck.Cards.First().ToString());
+            Console.WriteLine(card + "\n");
             Deck.Cards.RemoveAt(0);
         }
 
