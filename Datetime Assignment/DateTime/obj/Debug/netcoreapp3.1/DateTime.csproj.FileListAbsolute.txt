@@ -1,0 +1,13 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Datetime Assignment\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
