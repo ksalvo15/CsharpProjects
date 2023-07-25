@@ -2,3 +2,12 @@ C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\Blac
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache

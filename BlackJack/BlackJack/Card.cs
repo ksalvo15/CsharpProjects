@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace BlackJack
 {
     public struct Card
-    {
-        public Suit Suit { get; set; }
+    {        public Suit Suit { get; set; }
         public Face Face { get; set; }
 
         public override string ToString()

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlackJack
 {
-    class BlackjackDealer : Dealer
+    public class BlackjackDealer : Dealer
     {
         private List<Card> _hand = new List<Card>();
         public List<Card> Hand { get { return _hand; } set { _hand = value; } }

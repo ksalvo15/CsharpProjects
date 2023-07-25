@@ -33,7 +33,7 @@ namespace BlackJack
                 }
                 Bets[player] = bet;
             }
-            for (int i = 0; i <2; i++)
+            for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Dealing...");
                 foreach (Player player in Players)
@@ -90,15 +90,18 @@ namespace BlackJack
                     if (busted)
                     {
                         Dealer.Balance += Bets[player];
-                        Console.WriteLine("{0} Busted you lose your bet of {1}", player.Name, Bets);
+                        Console.WriteLine("{0} Busted you lose your bet of {1}, your balance in now {2}", player.Name, Bets[player], player.Balance);
+                        Console.WriteLine("Do you want to play again?");
                         answer = Console.ReadLine().ToLower();
                         if (answer == "yes" || answer =="yeah")
                         {
                             player.isActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;
                         }
                     }
                 }
@@ -119,10 +122,13 @@ namespace BlackJack
             if (Dealer.isBusted)
             {
                 Console.WriteLine("Dealer is Busted");
+
                 foreach (KeyValuePair<Player, int> entry in Bets)
                 {
-                    Console.WriteLine("{0} won {1}", entry.Key.Name, entry.Value);
-                    Players.Where(x => x.Name == entry.Key.Name).First().Balance += (entry.Value * 2);
+                    int winnings = entry.Value * 2;
+
+                    Players.Where(x => x.Name == entry.Key.Name).First().Balance -= winnings;
+                    Console.WriteLine("{0} won {1}, you have {2}", entry.Key.Name, entry.Value, winnings);                    
                     Dealer.Balance -= entry.Value;
                 }
                 return;

@@ -1,9 +1,9 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
-using System.IO;
 
 namespace BlackJack
 {
@@ -16,9 +16,13 @@ namespace BlackJack
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            string card = string.Format(Deck.Cards.First().ToString());
-            Console.WriteLine(card + "\n");
-            Deck.Cards.RemoveAt(0);
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"C:\Users\kelse\Desktop\Logs\log.txt", true))
+            {
+                file.WriteLine(card);
+            }
+                Deck.Cards.RemoveAt(0);
         }
 
     }
