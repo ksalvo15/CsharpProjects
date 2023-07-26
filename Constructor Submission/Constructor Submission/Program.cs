@@ -8,19 +8,16 @@ namespace Constructor_Submission
 {
     public class Program
     {
-        const string Constvar = "apple";
-        public string constvar;
-
-        public Program(string constvar)
+        static void Main()
         {
+            const string constvar = "apple";
 
-            var Variable = "Beans";
-            Console.WriteLine(Variable);
-        }
+            var newfooddict = new Dictionary<string, int>();
 
-        public Program() : this("default food")
-        {
-            
+            Console.WriteLine(constvar);
+
+            Class1 newClass = new Class1(constvar);
+            Console.ReadLine();
         }
-    }        
+    }    
 }

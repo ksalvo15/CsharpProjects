@@ -2,3 +2,12 @@ C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Su
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.AssemblyInfoInputs.cache
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.AssemblyInfo.cs
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\bin\Debug\netcoreapp3.1\Constructor Submission.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\bin\Debug\netcoreapp3.1\Constructor Submission.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\bin\Debug\netcoreapp3.1\Constructor Submission.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\bin\Debug\netcoreapp3.1\Constructor Submission.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\bin\Debug\netcoreapp3.1\Constructor Submission.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\bin\Debug\netcoreapp3.1\Constructor Submission.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.genruntimeconfig.cache
