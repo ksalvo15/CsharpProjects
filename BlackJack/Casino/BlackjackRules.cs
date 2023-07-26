@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BlackJack
+namespace Casino
 {
     class BlackjackRules
     {

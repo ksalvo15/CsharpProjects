@@ -7,8 +7,20 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "BlackJack/1.0.0": {
+        "dependencies": {
+          "Casino": "1.0.0",
+          "Casino.Reference": "1.0.0.0"
+        },
         "runtime": {
           "BlackJack.dll": {}
+        }
+      },
+      "Casino.Reference/1.0.0.0": {
+        "runtime": {
+          "Casino.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +28,11 @@
   "libraries": {
     "BlackJack/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Casino.Reference/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

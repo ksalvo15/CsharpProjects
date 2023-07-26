@@ -1,0 +1,4 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.csproj.AssemblyReference.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Constructor Submission\Constructor Submission\obj\Debug\netcoreapp3.1\Constructor Submission.csproj.CoreCompileInputs.cache

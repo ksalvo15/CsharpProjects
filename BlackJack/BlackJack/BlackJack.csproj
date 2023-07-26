@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Casino\Casino.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Casino">
+      <HintPath>..\Casino\bin\Debug\netcoreapp3.1\Casino.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -4,13 +4,15 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
+using Casino;
+using Casino.BlackJack;
 
 namespace BlackJack
 {
     class Program
     {
         static void Main(string[] args)
-        {            
+        {
             Console.WriteLine("Welcome to the grand hotel and casino. Tell us your name");
             string playername = Console.ReadLine();
 
@@ -22,6 +24,11 @@ namespace BlackJack
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playername, playermoney);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\kelse\Desktop\Logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new BlackjackGame();
                 game += player;
                 player.isActivelyPlaying = true;
