@@ -16,8 +16,14 @@ namespace BlackJack
             Console.WriteLine("Welcome to the grand hotel and casino. Tell us your name");
             string playername = Console.ReadLine();
 
-            Console.WriteLine("How much money did you bring to spend?");
-            int playermoney = Convert.ToInt32(Console.ReadLine());
+            bool validAnswer = false;
+            int playermoney = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring?");
+                validAnswer = int.TryParse(Console.ReadLine(), out playermoney);
+                if (!validAnswer) Console.WriteLine("please enter digits only no decimals");
+            }
 
             Console.WriteLine("Hello {0} would you like to join a game of Blackjack?", playername);
             string answer = Console.ReadLine().ToLower();
@@ -34,7 +40,21 @@ namespace BlackJack
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch(Fraud)
+                    {
+                        Console.WriteLine("Security kick this person out");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch(Exception)
+                    {
+                        Console.WriteLine("an error occured please contact support");
+                        return;
+                    }
                 }
                 game -= player;
                 Console.WriteLine("thank you for playing");

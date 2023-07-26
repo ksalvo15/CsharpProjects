@@ -1,4 +1,3 @@
-C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\BlackJack\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache

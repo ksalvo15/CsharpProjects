@@ -1,0 +1,12 @@
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\bin\Debug\netcoreapp3.1\TryandCatch.exe
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\bin\Debug\netcoreapp3.1\TryandCatch.deps.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\bin\Debug\netcoreapp3.1\TryandCatch.runtimeconfig.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\bin\Debug\netcoreapp3.1\TryandCatch.runtimeconfig.dev.json
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\bin\Debug\netcoreapp3.1\TryandCatch.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\bin\Debug\netcoreapp3.1\TryandCatch.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\obj\Debug\netcoreapp3.1\TryandCatch.AssemblyInfoInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\obj\Debug\netcoreapp3.1\TryandCatch.AssemblyInfo.cs
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\obj\Debug\netcoreapp3.1\TryandCatch.csproj.CoreCompileInputs.cache
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\obj\Debug\netcoreapp3.1\TryandCatch.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\obj\Debug\netcoreapp3.1\TryandCatch.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\Try Catch Assignment\TryandCatch\obj\Debug\netcoreapp3.1\TryandCatch.genruntimeconfig.cache
