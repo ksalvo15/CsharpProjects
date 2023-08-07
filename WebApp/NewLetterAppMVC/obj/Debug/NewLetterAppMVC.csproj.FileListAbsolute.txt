@@ -77,3 +77,7 @@ C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\WebApp\NewLett
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\WebApp\NewLetterAppMVC\obj\Debug\NewLetterAppMVC.csproj.CopyComplete
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\WebApp\NewLetterAppMVC\obj\Debug\NewLetterAppMVC.dll
 C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\WebApp\NewLetterAppMVC\obj\Debug\NewLetterAppMVC.pdb
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\WebApp\NewLetterAppMVC\bin\EntityFramework.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\WebApp\NewLetterAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\WebApp\NewLetterAppMVC\bin\EntityFramework.xml
+C:\Users\kelse\Documents\Tech-Academy-Files\GitHub\CsharpProjects\WebApp\NewLetterAppMVC\bin\EntityFramework.SqlServer.xml

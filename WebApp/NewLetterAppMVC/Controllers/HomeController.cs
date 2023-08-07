@@ -1,4 +1,6 @@
-﻿using System;
+﻿using NewLetterAppMVC.Models;
+using NewLetterAppMVC.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -23,43 +25,40 @@ namespace NewLetterAppMVC.Controllers
             }
             else
             {
-                string connectionString = @"Data Source=DESKTOP-OA8SL67\SQLEXPRESS;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-
-                string queryString = @"INSERT INTO SignUp (FirstName, LastName, EmailAddress) VALUES
-                                        (@FirstName, @LastName, @EmailAddress)";
-
-                using (SqlConnection connection = new SqlConnection(connectionString))
+                using (NewsletterEntities db = new NewsletterEntities())
                 {
-                    SqlCommand command = new SqlCommand(queryString, connection);
-                    command.Parameters.Add("@FirstName", SqlDbType.VarChar);
-                    command.Parameters.Add("@LastName", SqlDbType.VarChar);
-                    command.Parameters.Add("@EmailAddress", SqlDbType.VarChar);
+                    var signup = new NewsSignUp();
+                    signup.FirstName = firstName;
+                    signup.LastName = lastName;
+                    signup.EmailAddress = emailAddress;
 
-                    command.Parameters["@FirstName"].Value = firstName;
-                    command.Parameters["@LastName"].Value = lastName;
-                    command.Parameters["@EmailAddress"].Value = emailAddress;
-
-                    connection.Open();
-                    command.ExecuteNonQuery();
-                    connection.Close();
+                    db.NewsSignUps.Add(signup);
+                    db.SaveChanges();
                 }
-
-                    return View("Success");
+                return View("Success");
             }
-        }
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
         }
     }
 }
+
+//private readonly string connectionString = @"Data Source=DESKTOP-OA8SL67\SQLEXPRESS;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+
+//string queryString = @"INSERT INTO NewsSignUps (FirstName, LastName, EmailAddress, SocialSecurityNumber) VALUES
+//                        (@FirstName, @LastName, @EmailAddress, @SocialSecurityNumber)";
+
+//using (SqlConnection connection = new SqlConnection(connectionString))
+//{
+//    SqlCommand command = new SqlCommand(queryString, connection);
+//    command.Parameters.Add("@FirstName", SqlDbType.VarChar);
+//    command.Parameters.Add("@LastName", SqlDbType.VarChar);
+//    command.Parameters.Add("@EmailAddress", SqlDbType.VarChar);
+
+//    command.Parameters["@FirstName"].Value = firstName;
+//    command.Parameters["@LastName"].Value = lastName;
+//    command.Parameters["@EmailAddress"].Value = emailAddress;
+
+//    connection.Open();
+//    command.ExecuteNonQuery();
+//    connection.Close();
+//}
