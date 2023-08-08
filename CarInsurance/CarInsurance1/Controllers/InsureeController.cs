@@ -50,6 +50,7 @@ namespace CarInsurance1.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = InsureeQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -124,7 +125,70 @@ namespace CarInsurance1.Controllers
             base.Dispose(disposing);
         }
 
-        
-        
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
+
+        public decimal InsureeQuote(Insuree insuree)
+        {        
+                decimal initialQuote = 50;
+
+                //a-d
+                int age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+                
+                if (age <= 18)
+                {
+                    initialQuote += 100;
+                }
+                else if (age >= 19 && age <= 25)
+                {
+                    initialQuote += 50;
+                }
+                else
+                {
+                    initialQuote += 25;
+                }
+
+                //e,f               
+                if (insuree.CarYear < 2000)
+                {
+                    initialQuote += 25;
+                }
+                if (insuree.CarYear > 2015)
+                {
+                    initialQuote += 25;
+                }
+
+                //g-h
+
+                if (insuree.CarMake == "Porsche")
+                {
+                    initialQuote += 25;
+                }
+
+                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
+                {
+                    initialQuote += 25;
+                }
+
+                //i-k
+
+                initialQuote += insuree.SpeedingTickets * 10;
+
+                if (insuree.DUI)
+                {
+                initialQuote *= 1.25m;
+                }
+                
+                if (insuree.CoverageType)
+                {
+                initialQuote *= 1.5m;
+                }       
+                
+            
+            return initialQuote;
+        }
+
     }
 }
