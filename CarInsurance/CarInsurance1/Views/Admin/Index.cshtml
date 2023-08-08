@@ -11,9 +11,7 @@
         </div>
         <div class="card-body">
             @foreach (var quote in Model)
-            {
-                using (Html.BeginForm("Index", "Admin", FormMethod.Post))
-                {
+            {                       
                     <div class="row mb-3">
                         <div class="col">
                             @quote.FirstName
@@ -27,8 +25,7 @@
                         <div class="col">
                             @quote.Quote
                         </div>
-                    </div>
-                }
+                    </div>                  
             }
         </div>
     </div>
