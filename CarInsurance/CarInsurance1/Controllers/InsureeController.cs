@@ -50,7 +50,7 @@ namespace CarInsurance1.Controllers
         {
             if (ModelState.IsValid)
             {
-                insuree.Quote = InsureeQuote(insuree);
+                insuree.Quote = InsureeQuote(insuree); //this uses the InsureeQuote method during the create stage to calculate  a quote
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -130,7 +130,7 @@ namespace CarInsurance1.Controllers
             return View(db.Insurees.ToList());
         }
 
-        public decimal InsureeQuote(Insuree insuree)
+        public decimal InsureeQuote(Insuree insuree) //this is the insurance quote method
         {        
                 decimal initialQuote = 50;
 
