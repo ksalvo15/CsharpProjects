@@ -1,9 +1,9 @@
 # TACsharpProjects
 C# Projects
 
-*[Blackjack](https://github.com/ksalvo15/TACsharpProjects/tree/main/BlackJack)
-*[Car Insurance](https://github.com/ksalvo15/TACsharpProjects/tree/main/CarInsurance/CarInsurance1)
-*[Mini Assignments](https://github.com/ksalvo15/TACsharpProjects/tree/main/MiniAssignments)
+* [Blackjack](https://github.com/ksalvo15/TACsharpProjects/tree/main/BlackJack)
+* [Car Insurance](https://github.com/ksalvo15/TACsharpProjects/tree/main/CarInsurance/CarInsurance1)
+* [Mini Assignments](https://github.com/ksalvo15/TACsharpProjects/tree/main/MiniAssignments)
 
 # Blackjack
 This is my Blackjack project where it takes user input in a console app to calulate bets and total bank amount in a blackjack game. once it has taken the user input it then generates random cards to the player where they can hit or stay based off the cards
